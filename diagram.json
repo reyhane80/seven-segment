@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+    { "type": "wokwi-7segment", "id": "sevseg1", "top": -155, "left": -50, "attrs": {} }
+  ],
+  "connections": [],
+  "dependencies": {}
+}
